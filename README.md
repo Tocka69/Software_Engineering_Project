@@ -26,5 +26,5 @@
 ### 1. کلون کردن مخزن
 
 ```bash
-git clone https://github.com/ErfanMohseni20/Software_Engineering_Project.git
+git clone https://github.com/Tocka69/Software_Engineering_Project.git
 cd Software_Engineering_Project
